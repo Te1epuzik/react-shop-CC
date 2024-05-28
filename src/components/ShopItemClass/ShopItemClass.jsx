@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import classes from './shopItemFunc.module.css';
+import classes from './shopItemClass.module.css';
 
 export class ShopItemClass extends Component {
 	render() {
